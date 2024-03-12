@@ -1,0 +1,8 @@
+div.user-state-in-layout {
+  width: 100%;
+  text-align: left;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: lightgrey;
+}
